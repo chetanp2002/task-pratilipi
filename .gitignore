@@ -7,6 +7,11 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+dataset/metadata.csv
+dataset/user_interaction.csv
+models/lightfm_model.pkl
+
+
 .Python
 build/
 develop-eggs/
